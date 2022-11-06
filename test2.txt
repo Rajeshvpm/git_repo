@@ -1,1 +1,2 @@
 file2 for thr testing the git repo
+adding teh file in te text2.txt for the futuer references and also the commit int the master
