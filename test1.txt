@@ -1,5 +1,1 @@
 file1 for thr testing the git repo
-file2 for thr testing the git repo
-file3 for thr testing the git repo
-file4 for thr testing the git repo
-file5 for thr testing the git repo
